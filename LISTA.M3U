@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="About", TV Latino | Teleclub!
+https://tv.teleclub.xyz/hls/welcome.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="About", Lista Gratuita 21/03/2021
+https://tv.teleclub.xyz/hls/welcome.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="About", Activar desde www.teleclub.xyz
+https://tv.teleclub.xyz/hls/welcome.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lE9c256.jpg" group-title="About", Telegram: @teleclubsoporte
+https://tv.teleclub.xyz/hls/welcome.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a/gbqZP73" group-title="PERÚ", TV Perú
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8gGkH5E" group-title="PERÚ", Willax TV
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmnvDBJKYjn2WNJlG91Axi-Y)/dm/3/x7x4dgx/s/live-1.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/YwsTdE4" group-title="PERÚ", GOL PERÚ
+https://live.tvplusgratis.com/hls/ts18e8mxa3xmnll/24_.m3u8?token=xF7su9naVZKSW00HfINsvA&expires=1616981482&ip=190.236.35.104
+#EXTINF:-1 tvg-logo="https://imgur.com/YwsTdE4" group-title="PERÚ", LATINA
+https://live-normal-movistar-hls.latina.pe/egress/bhandler/cialatina/live/chunklist_b950272.m3u8?nva=1624754479&ttl=432000&ip=200.121.201.147&hash=0cb4d7aecee8af69bb9c8
+#EXTINF:-1 tvg-logo="https://imgur.com/YwsTdE4" group-title="PERÚ", PANAMERICANA TV
+https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFhfD6HWPGI_kOEwGiAYayRI)/dm/3/x774s7s/s/live-3.m3u8
